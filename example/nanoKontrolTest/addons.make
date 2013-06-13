@@ -1,0 +1,2 @@
+ofxXmlSettings
+ofxNanoKontrol2
