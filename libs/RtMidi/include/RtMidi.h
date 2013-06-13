@@ -43,6 +43,9 @@
 #include "RtError.h"
 #include <string>
 
+#define __WINDOWS_MM__
+
+
 class RtMidi
 {
  public:
